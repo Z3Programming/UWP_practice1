@@ -26,5 +26,10 @@ namespace SayHello
         {
             this.InitializeComponent();
         }
+
+        private void BtnSayHello_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
